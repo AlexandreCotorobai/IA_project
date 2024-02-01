@@ -1,0 +1,50 @@
+{
+    "level": 1,
+    "step": 1,
+    "timeout": 3000,
+    "player": "alexandre",
+    "score": 0,
+    "lives": 3,
+    "digdug": [
+        1,
+        1
+    ],
+    "enemies": [
+        {
+            "name": "Fygar",
+            "id": "e0c18c20-5a4f-4850-8f07-5ca251fc66c0",
+            "pos": [
+                10,
+                13
+            ],
+            "dir": 1
+        },
+        {
+            "name": "Pooka",
+            "id": "a5924394-b75b-4b1b-8a0d-c65e363d1b3c",
+            "pos": [
+                47,
+                13
+            ],
+            "dir": 3
+        },
+        {
+            "name": "Pooka",
+            "id": "db5bc1c1-a12a-44b5-849c-37b3ef0c37bc",
+            "pos": [
+                6,
+                5
+            ],
+            "dir": 2
+        }
+    ],
+    "rocks": [
+        {
+            "id": "7292fe74-590d-4475-8fd4-2870c74db93c",
+            "pos": [
+                15,
+                18
+            ]
+        }
+    ]
+}
