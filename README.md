@@ -37,3 +37,4 @@ python -m pygame.examples.aliens
 # Tested on:
 - MacOS 13.6
 
+## Grade: TPG1-16,5 TPG2-16,6
