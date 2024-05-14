@@ -38,3 +38,6 @@ python -m pygame.examples.aliens
 - MacOS 13.6
 
 ## Grade: TPG1-16,5 TPG2-16,6
+
+# DEMO
+![demo](https://s3.ezgif.com/tmp/ezgif-3-2f24f2393c.gif)
